@@ -1,0 +1,41 @@
+.first{
+    color:rgb(111, 27, 27);
+    background-color: aqua;
+    border: 5px solid red;
+    border-radius: 5px;
+    box-shadow: black;
+    margin: 20px;
+    padding: 20px;
+
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.third{
+    display: none;
+}
+span{
+    border: 5px solid red;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 10px yellow;
+}
+.li{
+    /* display: inline; */
+    text-decoration: underline;
+    background-color: blanchedalmond;
+}
+.header{
+    background-color: palegoldenrod;
+    height: 400px;
+    /* width: 50%; */
+    background-image: url('/images/images.jpeg');
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    /* background-position: left; */
+    /* background-attachment: fixed; */
+    background-size: cover;
+}
