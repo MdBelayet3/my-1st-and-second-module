@@ -1,22 +1,20 @@
-# 📘 HTML & CSS Learning Modules (1st & 2nd Module)
+# HTML & CSS Learning Modules (1st & 2nd Module)
 
 This repository contains my practice files from learning **HTML and CSS fundamentals**.  
 It includes different topics like structure, lists, forms, images, CSS styling, and the box model.
 
----
 
-## 🚀 About This Project
+## About This Project
 
 This project is created as part of my web development learning journey.  
 It helps me understand how HTML and CSS work together to build websites.
 
 Each file focuses on a specific concept.
 
----
 
-## 📂 Project Contents
+## Project Contents
 
-### 📄 HTML Topics
+### HTML Topics
 
 - `structure.html` → Basic HTML structure  
 - `list.html` → Ordered & unordered lists  
@@ -26,32 +24,21 @@ Each file focuses on a specific concept.
 - `external css.html` → Linking external CSS  
 - `internal css.html` → Internal CSS styling  
 
----
 
-### 🎨 CSS Topics
+### CSS Topics
 
 - `css.html` → Basic CSS introduction  
 - `css margin, border.html` → Margin and border concepts  
 - `css box model.html` → CSS Box Model explanation  
 - `background image.html` → Background image styling  
 
----
-
-### 📁 CSS Files
-
-- `css basic/style.css` → Basic CSS styles  
-- `basic.css/style.css` → Additional practice styles  
-
----
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
 
----
 
-## 🎯 What I Learned
+## What I Learned
 
 - How HTML structure works  
 - How to create lists, links, and forms  
@@ -61,8 +48,7 @@ Each file focuses on a specific concept.
 - File organization in a project  
 
 
-## 📌 How to Use
+## How to clone the repository
 
-1. Clone the repository:
 ```bash id="clone1"
 git clone https://github.com/MdBelayet3/my-1st-and-second-module.git
